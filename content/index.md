@@ -24,8 +24,9 @@ Let's start with what's going on at the moment? What's on my plate?
 * triathlon
 * weight training
 * woodwork
-* 
+* thinking
+* car mods
 
-Maybe then we can talk about what I've learnt and think would be useful for anyone to know. Maybe moreso if the shoes you are in are similar to the shoes I have been in.
+Maybe then we can talk about what I've learnt and think would be useful for anyone to know. Maybe more so if the shoes you are in are similar to the shoes I have been in.
 
 * [[Writing preferences]]
