@@ -1,12 +1,10 @@
-* Materials
-* Joins
-* Finishes
-* Tools
-* Cost considerations
-* Time considerations
-* Why even bother?
-
-## Why even bother?
+* [[#Why even bother?]]
+* [[#Materials]]
+* [[#Joins]]
+* [[#Finishes]]
+* [[#Tools - universal to woodworking]]
+* [[#Tables, specifically]]
+# Why even bother?
 There's nothing special about making a table. If there were something special, it'd be the same kind of special that you get when you go for a long walk, or do something else slow, intentional, methodical and repetitive. That doesn't mean it is always easy. There's a level of craftsmanship to it, which extends to many other aspects in life. You are asked to make tradeoffs, for cost, time, effort, concentration, quality, to find something that meets the sweet spot for you. 
 
 Is it worthwhile? Surely it's easier to just buy one that IKEA's already made widely available. Which is perfectly find if you aren't fussy, or can make it work for your space. You can even buy something premade, hack it around a bit further to make it work even better. The real value in making a table for yourself extends to reasons such as:
@@ -15,32 +13,36 @@ Is it worthwhile? Surely it's easier to just buy one that IKEA's already made wi
 * Because you can
 
 This is the kind of topic that warrants visual illustrations, which I may or may not get around to in the future. Which joins? Material differences? Finish differences?
-
-Material choices for a beginner
+# Materials
 - plywood
 - MDF
 - particleboard
 - pine
 - other woods (not beginner friendly)
-
-Joins
+# Joins
 * function over form?
 * strength considerations
 * joinery as an art form itself
 * methods
-
-Finishes
+# Finishes
 * oil
 * lacquer
 * vinyl
 * unfinished
 * why?
-
-Tools - universal to woodworking
+# Tools - universal to woodworking
 * Woodworking levels
 * Circular saw
 * Hand saw
 * Wood chisels
 * Sanding equipment - blocks, sanders
-* EZ mode - drills and screws
-* Nails
+* EZ mode - drills and screws, nails, glue
+
+# Tables, specifically
+* Levelness
+* Sturdiness
+* Sizes
+* Features
+* Use cases
+
+to do - get this to an mvp state

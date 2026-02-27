@@ -3,3 +3,6 @@ My most recent thoughts
 - we only live the way we do because it's the most convenient
 - challenge everything
 
+
+
+to do - get this to an mvp state
