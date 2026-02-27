@@ -1,12 +1,12 @@
 What I've learnt and think would be useful for anyone to know. Maybe more useful if the shoes you are in are similar to the shoes I have been in.
 
 What am I focusing on at the moment?
-* [[A web app to give me cheesy quotes I like]]
-* [[A plyometrics program to increase my vertical jump height]]
-* [[Exploring personal finance in relation to my career]]
-* [[Eating right]]
-* [[Sleeping, right?]]
-* [[Using my time "well"]]
+* A web app to give me cheesy quotes I like
+* A plyometrics program to increase my vertical jump height
+* Exploring personal finance in relation to my career
+* Eating right
+* Sleeping, right?
+* Using my time "well"
 
 Not as pressing topics I've updated
 * [[Things I wish I knew when I started volleyball]] 
