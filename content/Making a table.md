@@ -7,7 +7,7 @@
 * Why even bother?
 
 ## Why even bother?
-There's nothing special about making a table. That doesn't mean it is always easy. There's a level of craftsmanship to it, which extends to many other aspects in life. You are asked to make tradeoffs, for cost, time, effort, concentration, quality, to find something that meets the sweet spot for you. 
+There's nothing special about making a table. If there were something special, it'd be the same kind of special that you get when you go for a long walk, or do something else slow, intentional, methodical and repetitive. That doesn't mean it is always easy. There's a level of craftsmanship to it, which extends to many other aspects in life. You are asked to make tradeoffs, for cost, time, effort, concentration, quality, to find something that meets the sweet spot for you. 
 
 Is it worthwhile? Surely it's easier to just buy one that IKEA's already made widely available. Which is perfectly find if you aren't fussy, or can make it work for your space. You can even buy something premade, hack it around a bit further to make it work even better. The real value in making a table for yourself extends to reasons such as:
 * It's satisfying to make something of your own
