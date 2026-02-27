@@ -1,9 +1,10 @@
 
 Pressing topics
-* [[Practical life skills]]
-* [[Discipline]]
 * [[Making a table]]
 * [[Things I wish I knew when I started volleyball]] 
+* [[The right place, the right time]]
+* [[Practical life skills]]
+* [[Discipline]]
 
 
 Let's start with what's going on at the moment? What's on my plate?

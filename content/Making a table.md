@@ -35,3 +35,12 @@ Finishes
 * vinyl
 * unfinished
 * why?
+
+Tools - universal to woodworking
+* Woodworking levels
+* Circular saw
+* Hand saw
+* Wood chisels
+* Sanding equipment - blocks, sanders
+* EZ mode - drills and screws
+* Nails
