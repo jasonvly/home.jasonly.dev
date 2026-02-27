@@ -36,6 +36,7 @@ I have a side of me that loves self-correcting. Rereading something and then say
 
 Fuck it. Keep going. Finish the piece. Put it away. Let it cook. Then come back and read it with fresh eyes. You won't remember that you even wrote this. That's a good time to review and make changes as you want.
 
-## How do I want to write?
+## Restrictions
 * First drafts are around 500 words. More than that, and you're just fucking around. Keep it short, keep it strong.
 * Edit leisurely. Review often. Tend to the weeds. This is a garden, not a relay. Everything matters, sometimes.
+* Fuck it, keep going.
