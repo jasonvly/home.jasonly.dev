@@ -2,5 +2,7 @@ One thing I've realised as I've grown older is that whether we view something as
 
 Former me was always caught up in this eternal binary struggle between two choices. Exercise or relax? Pursue physical or intellectual? EQ or IQ? Red powerade or blue powerade? A or B? 
 
+Knowledge is useful. 
+
 
 to do - get this to an mvp state

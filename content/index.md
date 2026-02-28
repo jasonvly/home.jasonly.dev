@@ -48,4 +48,4 @@ Things I've dabbled in and might write up on later
 * skill acquisition
 * philosophy
 
-Don't expect polished. Don't expect pretty. Don't expect anything. What you see is what I am giving.
+Don't expect polished. Don't expect pretty. Don't expect anything. 
