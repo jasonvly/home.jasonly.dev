@@ -10,7 +10,7 @@ I went for a morning swim with some friends. Afterwards, we decided to get a san
 
 I wonder, "can this place really be that amazing? They're just sandwiches." My friends are showing me saved reels of the sandwiches this place makes, excited and willing. I'd rather not see. I'd rather not decide on what flavours I want. Just let me decide on the spot when I get inside. There aren't any signs about their menu choices on the outside of the store, anyway - it's that kind of shop. 
 
-1145 - we move past the first bend in the S shape, of which there are roughly about 3. I don't really want to line up, but I'll do it for the sake of my friends. Maybe some of them are thinking that too. Some seem genuinely unphased, and happy to just vibe and eat the sandwiches at the end. I can't tell. We all agree "we don't do it often, but we'll line up when there are a lot of us together like this." I suppose that's the sentiment.
+1145 - we move past the first bend in the S shape, of which there are roughly about three. I don't really want to line up, but I'll do it for the sake of my friends. Maybe some of them are thinking that too. Some seem genuinely unphased, and happy to just vibe and eat the sandwiches at the end. I can't tell. We all agree "we don't do it often, but we'll line up when there are a lot of us together like this." I suppose that's the sentiment.
 
 1150 - In between the bouts of conversation, I think "man this sucks". Thoughts arise
 
@@ -29,16 +29,23 @@ Wrestling with feelings of choices, doors, opportunity costs**
 
 1205 - our first steps onto the entry of the deli. 
 
-1213 - the reality that food is imminent starts setting in. I start feeling more relieved than exhausted. One friend starts taking pictures. One friend says to another, "take lots of pictures - we're not coming back".
+1213 - the reality that food is imminent starts setting in. The mood is gradually lifting. I start feeling more relieved than exhausted. One friend starts taking pictures. One friend says to another, "take lots of pictures - we're not coming back". The interior is nice - old school deli vibes, canned and preserved goods on all the shelves, a long wide fridge display for the ingredients, ham slicers, and thin mirrors spanning the walls. 
+* friends start writing what ingredients they want
+* checking their references
+* trying to eye what is on offer
 
 1225 - the immediate 
+* we watch people ahead of us ordering
+* their choices, their company
+* the conversations the staff are having with customers 
+* i understand why people like this place
 
-1240 - we pick our toppings. The staff are friendly, human and conversational, whilst still informative.
+1240 - we pick our toppings. The staff are friendly, human and conversational, whilst still informative. I 
 
 
 1245 - the food is ready. We eat. Only now do I realise my body is trembling from hunger, something I am used to experiencing whenever I diet a little too aggressively. As I am chewing, I physically feel my body gradually relaxing and settling. I suddenly notice my tight back, tense shoulders, furrowed brow, and almost instantaneously start deflating. My short breathing starts deepening a little. 
 
-1310 - we finish eating. We take away the remaining food. We part ways.
+1310 - we finish eating. We take away the remaining food. We part ways. I am still tired, but well fed.
 
 Would I do it again?
 
