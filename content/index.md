@@ -1,4 +1,6 @@
-What I've learnt and think would be useful for anyone to know. Maybe more useful if the shoes you are in are similar to the shoes I have been in.
+What I've learnt and think would be useful for anyone to know. Maybe more useful if the shoes you are in are similar to the shoes I have been in. Don't expect polished. Don't expect pretty. Don't expect anything. 
+
+[[How I live]]
 
 What am I focusing on at the moment?
 * A web app to give me cheesy quotes I like
@@ -12,12 +14,12 @@ Not as pressing topics I've updated
 * [[Things I wish I knew when I started volleyball]] 
 * [[Making a table]]
 * [[How I want to write]]
+* [[Discipline]]
+* [[Converting vans to mobile homes]]
 
 Pressing topics to update
 * [[The right place, the right time]]
 * [[Practical life skills]]
-* [[Discipline]]
-* [[Converting vans to mobile homes]]
 * [[What it feels like to wait over an hour in line for a sandwich]]
 * [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
@@ -47,5 +49,3 @@ Things I've dabbled in and might write up on later
 * productivity
 * skill acquisition
 * philosophy
-
-Don't expect polished. Don't expect pretty. Don't expect anything. 
