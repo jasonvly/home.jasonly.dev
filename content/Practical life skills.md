@@ -1,6 +1,6 @@
 My lived experiences and skills gained aren't something easily contained in a single article.
 
-Let me summarise what's in my head as of recent. The rules: one line, two accompanying sentences max. Start with 10.
+For now, let me summarise what's in my head as of recent. The rules: one line, two accompanying sentences max. Start with 10.
 # Nothing matters, so everything matters.
 What does life mean to you? Our short lived existence only really affects ourselves and those around us, so decide what is important and what is not.  
 # We live the way we do because it's the most convenient.
@@ -22,3 +22,4 @@ Rather than running in circles. The differences in outcomes is worth the detour.
 # Fundamentals first, exploration second.
 In pursuit of skill acquisition, follow the well travelled road. When you understand it, follow the roads you are pulled towards.
 
+On looking back, I realise that many of these skills are not practical. What makes something practical? I need a clear answer for this.
