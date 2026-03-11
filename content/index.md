@@ -7,7 +7,7 @@ What am I focusing on at the moment?
 * A plyometrics program to increase my vertical jump height
 * Exploring personal finance in relation to my career
 
-I've recently updated
+I've written on
 * [[Things I wish I knew when I started volleyball]] 
 * [[Making a table]]
 * [[How I want to write]]
@@ -20,8 +20,10 @@ Pressing topics to update
 * [[The right place, the right time]]
 * [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
+* Speechwriting
 * Dealing with friction
 * Who or what do you listen to?
+* Being a kind person
 * Using my time "well"
 * Eating right
 * Fitness in a nutshell
