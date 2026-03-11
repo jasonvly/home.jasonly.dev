@@ -1,4 +1,4 @@
-What I've learnt and think would be useful for anyone to know. Maybe more useful if the shoes you are in are similar to the shoes I have been in. Don't expect polished. Don't expect pretty. Don't expect anything. 
+What I've learnt and think would be useful for anyone to know. Maybe more useful if the shoes you are in are similar to the shoes I have been in. Don't expect pretty. Don't expect anything. 
 
 [[How I live]]
 
@@ -19,10 +19,10 @@ I've recently updated
 * [[Discipline]]
 * [[Converting vans to mobile homes]]
 * [[What it feels like to wait over an hour in line for a sandwich]]
+* [[Practical life skills]]
 
 Pressing topics to update
 * [[The right place, the right time]]
-* [[Practical life skills]]
 * [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
 
