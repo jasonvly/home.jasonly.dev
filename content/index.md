@@ -6,11 +6,6 @@ What am I focusing on at the moment?
 * A web app to give me cheesy quotes I like
 * A plyometrics program to increase my vertical jump height
 * Exploring personal finance in relation to my career
-* Eating right
-* Sleeping, right?
-* Using my time "well"
-* Who or what do you listen to?
-* Dealing with friction
 
 I've recently updated
 * [[Things I wish I knew when I started volleyball]] 
@@ -25,6 +20,12 @@ Pressing topics to update
 * [[The right place, the right time]]
 * [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
+* Dealing with friction
+* Who or what do you listen to?
+* Using my time "well"
+* Eating right
+* Fitness in a nutshell
+* Sleeping, right?
 
 What have I worked on in the past?
 
