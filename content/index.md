@@ -10,24 +10,23 @@ What am I focusing on at the moment?
 * Sleeping, right?
 * Using my time "well"
 * Who or what do you listen to?
-* What friction are you having?
+* Dealing with friction
 
-Not as pressing topics I've updated
+I've recently updated
 * [[Things I wish I knew when I started volleyball]] 
 * [[Making a table]]
 * [[How I want to write]]
 * [[Discipline]]
 * [[Converting vans to mobile homes]]
+* [[What it feels like to wait over an hour in line for a sandwich]]
 
 Pressing topics to update
 * [[The right place, the right time]]
 * [[Practical life skills]]
-* [[What it feels like to wait over an hour in line for a sandwich]]
 * [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
 
 What have I worked on in the past?
-
 
 Things I've dabbled in and might write up on later
 * volleyball
