@@ -20,7 +20,8 @@ Pressing topics to update
 * [[The right place, the right time]]
 * [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
-* Speechwriting
+* [[Speechwriting]]
+* When you don't get what you want
 * Dealing with friction
 * Who or what do you listen to?
 * Being a kind person
