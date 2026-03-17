@@ -11,17 +11,22 @@ I've written on
 * [[Things I wish I knew when I started volleyball]] 
 * [[Making a table]]
 * [[How I want to write]]
-* [[Discipline]]
+* [[Discipline - my thoughts]]
 * [[Converting vans to mobile homes]]
 * [[What it feels like to wait over an hour in line for a sandwich]]
 * [[Practical life skills]]
+* [[Speechwriting]]
 
 Pressing topics to update
 * [[The right place, the right time]]
 * [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
-* [[Speechwriting]]
 * When you don't get what you want
+* Things that make my life sad
+* Things that make my life happy
+* Suffering is necessary
+* Playing the hand you are dealt
+* Facing the music, or lack thereof
 * Dealing with friction
 * Who or what do you listen to?
 * Being a kind person
@@ -29,6 +34,9 @@ Pressing topics to update
 * Eating right
 * Fitness in a nutshell
 * Sleeping, right?
+
+
+
 
 What have I worked on in the past?
 

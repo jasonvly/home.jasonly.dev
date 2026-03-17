@@ -1,4 +1,3 @@
-# My experiences and thoughts
 We all have different approaches, opinions, attitudes towards discipline. The extreme side of it, where you see people waiting up at ungodly hours to perform ridiculous routines, or the complete rejection of it, from those who feel that work should flow naturally, without being forced - then everything in between.
 
 My current position leans towards the former. I've become aware of the risks and benefits of chasing discipline. I've let too much slide right past me to sit idly for too long. Despite this, I keep my limits in mind and avoid destroying myself in the process.
