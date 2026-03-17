@@ -1,4 +1,4 @@
-What I've learnt and think would be useful for anyone to know. Maybe more useful if the shoes you are in are similar to the shoes I have been in. Don't expect pretty. Don't expect anything. 
+What I've learnt and think would be useful for anyone to know. More useful if the shoes you are in are similar to the shoes I have been in. Don't expect pretty. Don't expect anything. 
 
 [[How I live]]
 
