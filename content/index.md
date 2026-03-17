@@ -5,7 +5,10 @@ What I've learnt and think would be useful for anyone to know. More useful if th
 What am I focusing on at the moment?
 * A web app to give me cheesy quotes I like
 * A plyometrics program to increase my vertical jump height
+* Building a campervan
+* Building a shoe shelf
 * Exploring personal finance in relation to my career
+* Addition of breathwork and hot/cold therapy for recovery
 
 I've written on
 * [[Things I wish I knew when I started volleyball]] 
@@ -37,7 +40,13 @@ Pressing topics to update
 * How hard it is to say no
 * Everything in [[How I live]]
 
-
+What do I want to do later?
+* fluency in cantonese
+* build more furniture
+* write more
+* stand up comedy
+* fight a fight
+* buy a house
 
 What have I worked on in the past?
 
