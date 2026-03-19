@@ -59,5 +59,5 @@ There are several challenges I'd like to think about and get some answers to. Ev
 * Can I inspire others to help drive this change?
 * Can I delegate to others?
 
-I realise that this is all airy fairy and idealistic. Good.
+I understand that this is all airy fairy and idealistic. Good.
 
