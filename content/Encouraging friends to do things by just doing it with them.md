@@ -53,11 +53,13 @@ When I truly don't want to. I don't have capacity, the mood for it, money, energ
 # What's next? Where do I go with this?
 I've been measuring my 'success' roughly by the following internal heuristics: does what I'm doing feel right to me? Am I moving the needle towards a future I believe in? So far it has been a yes. I could be doing more. I could be doing less. The future is hazy, but I am heading the right way.
 
-There are several challenges I'd like to think about and get some answers to. Eventually. We'll cross that bridge when we get there. Examples:
+There are several challenges I'd like to think about and get some answers to. Eventually. We'll cross those bridges when we get there. 
+
+Examples:
 * How big is too big?
 * How can I be inclusive?
 * Can I inspire others to help drive this change?
 * Can I delegate to others?
 
-I understand that this is all airy fairy and idealistic. Good.
+I understand that this is all airy fairy and idealistic. Good. 
 
