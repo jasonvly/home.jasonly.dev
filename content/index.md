@@ -19,11 +19,13 @@ I've written on
 * [[What it feels like to wait over an hour in line for a sandwich]]
 * [[Practical life skills]]
 * [[Speechwriting]]
+* [[Encouraging friends to do things by just doing it with them]]
 
 Pressing topics to update
 * [[The right place, the right time]]
-* [[Encouraging friends to do things by just doing it with them]]
 * [[The eternal plight of responsibility and fixing problems, or not]]
+* Kindness
+* Working hard
 * When you don't get what you want
 * Things that make my life sad
 * Things that make my life happy
@@ -32,7 +34,6 @@ Pressing topics to update
 * Facing the music, or lack thereof
 * Dealing with friction
 * Who or what do you listen to?
-* Being a kind person
 * Using my time "well"
 * Eating right
 * Fitness in a nutshell
