@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "en-GB",
     baseUrl: "home.jasonly.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
