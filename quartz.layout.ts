@@ -1,6 +1,16 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Recent Writing
+const recentNotes = [
+  Component.RecentNotes({
+    title: "Recent Writing",
+    limit: 4,
+  })
+]
+
+
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -38,6 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.RecentNotes(),
     Component.Explorer(),
   ],
   right: [
