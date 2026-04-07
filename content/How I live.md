@@ -7,7 +7,7 @@
 * keep my desk empty
 * project manage the fuck out of my life
 * track important habits
-* spending more to spend less
+* spend more to spend less
 * single core processing
 * do your best to arrive on time
 * strength first

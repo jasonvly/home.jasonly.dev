@@ -5,41 +5,29 @@ What I've learnt and think would be useful for anyone to know. More useful if th
 What am I focusing on at the moment?
 * A web app to give me cheesy quotes I like
 * A plyometrics program to increase my vertical jump height
-* Building a campervan
 * Building a shoe shelf
+* Building a campervan
 * Exploring personal finance in relation to my career
 * Addition of breathwork and hot/cold therapy for recovery
+* A 30 second handstand
 
 I've written on
+* [[What it feels like to wait over an hour in line for a sandwich]]
+* [[Practical life skills]]
+* [[Speechwriting]]
+* [[Encouraging friends to do things by just doing it with them]]
 * [[Things I wish I knew when I started volleyball]] 
 * [[Making a table]]
 * [[How I want to write]]
 * [[Discipline - my thoughts]]
 * [[Converting vans to mobile homes]]
-* [[What it feels like to wait over an hour in line for a sandwich]]
-* [[Practical life skills]]
-* [[Speechwriting]]
-* [[Encouraging friends to do things by just doing it with them]]
 
 Pressing topics to update
+* [[Choose kindness]]
+* Expressing beauty
 * [[The right place, the right time]]
-* [[The eternal plight of responsibility and fixing problems, or not]]
-* Kindness
-* Working hard
-* When you don't get what you want
-* Things that make my life sad
-* Things that make my life happy
-* Suffering is necessary
-* Playing the hand you are dealt
-* Facing the music, or lack thereof
-* Dealing with friction
-* Who or what do you listen to?
-* Using my time "well"
-* Eating right
-* Fitness in a nutshell
-* Sleeping, right?
-* How hard it is to say no
-* Everything in [[How I live]]
+* [[The plight of responsibility and fixing problems]]
+
 
 What do I want to do later?
 * fluency in cantonese
@@ -50,8 +38,6 @@ What do I want to do later?
 * buy a house
 
 What have I worked on in the past?
-
-Things I've dabbled in and might write up on later
 * volleyball
 * beach volleyball
 * gymnastics
@@ -73,3 +59,11 @@ Things I've dabbled in and might write up on later
 * productivity
 * skill acquisition
 * philosophy
+* boxing
+* wrestling
+* meal prep
+* nutrition
+* sleep
+* electronics
+* 3d printing
+* mandarin (Chinese)
