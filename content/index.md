@@ -1,4 +1,9 @@
-What I've learnt and think would be useful for anyone to know. More useful if the shoes you are in are similar to the shoes I have been in. Don't expect pretty. Don't expect anything. 
+---
+title: memoirs
+
+---
+
+What I've been learning and think would be useful for anyone to know. Don't expect anything. 
 
 [[How I live]]
 
