@@ -1,11 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
 
 // Recent Writing
 const recentNotes = [
   Component.RecentNotes({
     title: "Recent Writing",
     limit: 4,
+    linkToMore: "posts/" as SimpleSlug,
   })
 ]
 
