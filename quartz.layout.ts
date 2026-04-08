@@ -9,13 +9,31 @@ const recentNotes = [
   })
 ]
 
+const left = [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
+    ...recentNotes.map((c) => Component.DesktopOnly(c)),
+    Component.Explorer(),
 
+]
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.SubscriptionForm()],
+  afterBody: [
+        Component.SubscriptionForm(),
+        ...recentNotes.map((c) => Component.MobileOnly(c)),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jasonvly",
@@ -35,23 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
-//    Component.RecentNotes(),
-
-  ],
+  left,
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
