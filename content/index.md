@@ -26,7 +26,7 @@ I juggle multiple interests most of the time (like all time-poor adults). At the
 * stand up comedy
 * fight a fight
 * buy a house
-# What have I dabbled in in the past?
+# What have I dabbled in?
 * volleyball
 * beach volleyball
 * gymnastics
