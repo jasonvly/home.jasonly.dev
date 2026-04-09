@@ -1,10 +1,3 @@
 ---
+draft: "true"
 ---
---- 
-draft: true
-
----
-
-asdasdasds
-
-to do
