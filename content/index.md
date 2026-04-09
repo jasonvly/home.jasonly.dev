@@ -7,6 +7,7 @@ What I've been learning and think would be useful for anyone to know. Don't expe
 
 [[How I live]]
 
+
 What am I focusing on at the moment?
 * A web app to give me cheesy quotes I like
 * A plyometrics program to increase my vertical jump height
@@ -28,7 +29,7 @@ I've written on
 * [[Converting vans to mobile homes]]
 
 Pressing topics to update
-* [[Choose kindness]]
+* [[Choosing kindness]]
 * Expressing beauty
 * [[The right place, the right time]]
 * [[The plight of responsibility and fixing problems]]
