@@ -12,7 +12,7 @@ function SubscriptionForm({ displayClass }: QuartzComponentProps) {
         <input type="email" name="email" id="bd-email" />
         <input type="submit" value="Subscribe" />
         <p>
-          Or <a href="" target="_blank">shout me a coffee.</a>
+          Or <a href="https://ko-fi.com/jasonlydev" target="_blank">shout me a coffee.</a>
         </p>
 
       </form>
