@@ -14,7 +14,7 @@ We move past the first bend in the S shape, of which there are roughly about thr
 # 1155
 In between the bouts of conversation and occasional few steps forward, I notice many fleeting thoughts cross my mind. "Man, this sucks". The initial 45 minute approximation feels grossly inappropriate. We are roughly halfway through the queue. I am closer to the entrance now, and can peek through the window. There are only two staff preparing the orders for customers, which helps explain the slow moving queue. There is no escape at this point - even leaving the queue is out of the question. It's not the company, the company is great, and the sense of mutually assured destruction helps distract me from the tiredness.
 
-Reflecting further, I question the experience more broadly. 
+I begin to question the experience more broadly. 
 
 What drives us to make choices? Why did we choose this sandwich place, over the other one 5 minutes down the road that also has been favourably reviewed (although not to the same extent)? What aspects inform our decision making? Do we inherently gravitate to the recommendations of the community, even at ridiculous costs? The path is well explored, well travelled. Probably for good reason. 
 
