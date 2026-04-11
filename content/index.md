@@ -15,11 +15,4 @@ I juggle [[What have I dabbled in|multiple interests]] most of the time (like al
 * Exploring personal finance in relation to my career
 * Incorporating breathwork and hot/cold therapy for recovery
 * A 30 second handstand
-# What do I want to do in 2026?
-* fluency in cantonese
-* write more
-* stand up comedy
-* fight a fight
-* buy a house
-* 4 triathlons
-* dunk a fucking basketball
+* [[2026 idealistic goals]]
