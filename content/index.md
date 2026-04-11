@@ -2,11 +2,11 @@
 title: Memoirs
 
 ---
-What I've been learning and think would be useful for anyone to know. Don't expect anything. Here are some things that describe [[How I live|how I live.]]
+What I've been learning and think would be useful for anyone to know. Don't expect anything. 
 
-I recently enjoyed writing about [[What it feels like to wait over an hour in line for a sandwich|what it feels like to wait over an hour in line for a sandwich.]]
+So you can get to know me better, here are some things that describe [[How I live|how I live.]] I care about experiences, depth, and living a well-lived life. I currently am [[How I want to write||enjoying writing]] about whatever interests me. More recently, I wrote about [[What it feels like to wait over an hour in line for a sandwich|what it feels like to wait over an hour in line for a sandwich.]]
 
-I juggle [[What have I dabbled in|multiple interests]] most of the time (like all time-poor adults). At the moment [[How I want to write|I write]]. In the background, here are other things going on, which I'd like to write on soon:
+I juggle [[What have I dabbled in|multiple interests]] most of the time (like all time-poor adults). In the background, here are other things going on, which I'd like to write on soon:
 * Choosing kindness
 * A web app to give me cheesy quotes I like
 * A plyometrics program to increase my vertical jump height
