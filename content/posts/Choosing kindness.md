@@ -6,9 +6,17 @@ How its expressed
 - inadvertently
 
 
-Many years ago, I came across Lara Hogan's article, where she argues one should [be a thermostat, not a thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/). It contributed to my perspective developing in an area where I'd previously only dabbled in - that we can strongly influence others for better or worse, rather than choosing to be beholden to the ambient mood surrounding us. For so much of my life, I've been someone who plays to the whims of others - do what I'm told, make everyone welcome, be the good student, play nicely. This was my default programming. I'd never really questioned why. I'd not really given much thought about how doing these things made people around me respond - how it had the ability to change how others felt. 
+Many years ago, I came across Lara Hogan's article, where she argues one should [be a thermostat, not a thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/). It contributed to my perspective developing in an area where I'd previously only dabbled in - that we can strongly influence others for better or worse, rather than choosing to be beholden to the ambient mood surrounding us. 
 
-I didn't have to make people happy. I was just conditioned to. Kindness was my default. People may have responded positively - or other times they may have not. Maybe this time I should have been kinder. Maybe that time I was overly considerate, at my own expense. Whatever. It wasn't until much later on that I realised that being kind is a choice. You are allowed to be an asshat. It is necessary at times.
+For so much of my life, I've been someone who plays to the whims of others - do what I'm told, make everyone welcome, be the good student, play nicely. This was my default "programming". I'd never really questioned why. I'd not really given much thought about how doing these things made people around me respond - how it had the ability to change how others felt. 
+
+I didn't have to make people happy. I was just conditioned to. Kindness was my default. People may have responded positively - or other times they may have not. Maybe this time I should have been kinder. Maybe that time I was too considerate, at my own expense. 
+
+I recall an instance in my student days where I'd offer to help friends by replacing their phone screens, or internet problems whenever they arose. 
+
+Whatever. At some point, I've come to realise that being kind is a choice. In the same vein, you are allowed to be an asshat. It is necessary at times. The good isn't good without the bad, and the bad isn't bad without the good. Extrapolating further, [[The right place, the right time|what the fuck even is "good?"]]. What's good in one scenario, could be catastrophic in another. Being unkind in one scenario may ultimately result in a kind outcome. Who can say? It's a big fucking loop where anything could do anything. I digress.
+
+
 
 
 

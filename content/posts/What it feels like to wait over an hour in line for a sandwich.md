@@ -30,7 +30,9 @@ I know by continuing to commit to this sandwich, I am definitely making a choice
 
 Further to this, if I'm going to wait here with my friends, how present do I be for them? We are told to be fully present as much as we can - but is this sustainable? Isn't it exhausting? My friends are checking their phones, going through messages, and I do try to resist the urge - but just feel the heat of the sun even more. I idealise presence, although also now question - is it as universally as useful as I think it is? Should we always try to live fully present? Am I missing anything by doing so? 
 
-Who knows. Anyway, back to the sandwiches. 
+Who knows. 
+
+Anyway, back to the sandwiches. 
 
 A mutual friend of ours coincidentally exits the store. She briefly raves about the sandwiches - its sizing, flavours, her circumstances for visiting. This reinvigorates our energy for lining up. The conversation continues to ebb and flow.
 # 1205
