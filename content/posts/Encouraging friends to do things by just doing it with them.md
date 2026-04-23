@@ -1,4 +1,4 @@
-This is a note more directed to myself. I don't want to preach, to force people on how to live their lives. I want to explore why I do what I do with a bit of substance, rather than "just because I want to". Which is also partially true.
+_This is a note more directed to myself. I don't want to preach, to force people on how to live their lives. I want to explore why I do what I do with a bit of substance, rather than "just because I want to" (which is also partially true).
 
 My life tends to go through phases where I focus on specific aspects of personal growth, as the need arises. 
 

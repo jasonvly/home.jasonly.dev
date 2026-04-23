@@ -11,7 +11,7 @@ I recall an time in my student days where I'd offer to help friends by replacing
 
 Cut across some years - and I've gone through much to do with trying to be kind, even where I shouldn't. Trying too hard to please everyone, and failing catastrophically. But for what? For what purpose? Was being kind something I genuinely wanted to do?
 
-At some point, I've realised that being kind is a choice. In the same vein, you are allowed to be an asshat. It is necessary at times. The good isn't good without the bad, and the bad isn't bad without the good. Extrapolating further, [[The right place, the right time|what the fuck even is "good?"]]. What's good in one scenario, could be catastrophic in another. Being unkind in one scenario may ultimately result in a kind outcome. Who can say? It's a big fucking loop where anything could do anything. Whatever.
+At some point, I've realised that being kind is a choice. In the same vein, you are allowed to be an asshat. It is necessary at times. The good isn't good without the bad, and the bad isn't bad without the good. Extrapolating further, [[The 'right' place, the 'right' time|what the fuck even is "good?"]]. What's good in one scenario, could be catastrophic in another. Being unkind in one scenario may ultimately result in a kind outcome. Who can say? It's a big fucking loop where anything could do anything. Whatever.
 
 So why do I still choose kindness? Why give, more than I have to?
 
