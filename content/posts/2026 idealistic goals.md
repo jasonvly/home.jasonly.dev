@@ -1,5 +1,5 @@
 * fluency in cantonese
-* write more
+* write 2 articles a month
 * stand up comedy
 * fight a fight
 * buy a house
