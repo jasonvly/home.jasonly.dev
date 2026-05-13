@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: "false"
 ---
 Whether we view something as useful or not useful is dependent on our situation. Go up, go down, go left go right, don't go, wash your hands. Do a spin. Rarely do we have universal truths that are applicable to every situation. It's almost always "it depends."
 
@@ -14,5 +14,5 @@ So where am I going with this?
 I am suggesting that we should seek to better understand the overwhelming nature of the present. A house is burning down? Pour water on it. The burning house is covered in oil? Why the fuck would you pour water on it, you absolute fucking moron? Didn't you know that adding water to an oil fire is a the dumbest thing you can do? The multiplicity can be staggering. Making choices can be paralysing. How do you know that watering the flowers today won't attract a cat that will destroy your garden? Two unseemingly related events collide due to a decision you make. 
 
 So then what do you do?
-I acknowledge it is very hard to find and give correct advice. Advice is hard. All we have is the information available to us. Beyond a reasonable degree of due diligence, there is nothing else for us to do but decide. Make a long-term strategy. Then play it by ear, adjust as you go. Constantly. Because nothing ever goes entirely to plan. Plans are there to get you started. 
+I acknowledge it is very hard to find and give correct advice. Good can be bad and bad can be good. Advice is hard. All we have is the information available to us. Beyond a reasonable degree of due diligence, there is nothing else for us to do but decide. Make a long-term strategy. Then play it by ear, adjust as you go. Constantly. Because nothing ever goes entirely to plan. Plans are there to get you started. 
 If in doubt, find the feeling that speaks to you.
