@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 * The phenomenon where a familiar movement, skill, or pattern suddenly feels completely foreign. A pitcher forgets how to pitch.
 * The thing is no longer "the" thing.
 * What it felt like

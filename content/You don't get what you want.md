@@ -1,3 +1,8 @@
+---
+draft: "true"
+---
+ 
+
 * The few times I didn't
 	* Coop scholarship
 	* The one that got away

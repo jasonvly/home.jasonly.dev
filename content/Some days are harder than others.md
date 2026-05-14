@@ -1,3 +1,9 @@
+---
+draft: "true"
+---
+
+
+
 - There is no pattern
 - There is no superstition
 	- It is a byproduct of life happening

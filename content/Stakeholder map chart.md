@@ -1,3 +1,8 @@
+---
+draft: "true"
+---
+
+
 left side, low to hi on influence/power
 
 
